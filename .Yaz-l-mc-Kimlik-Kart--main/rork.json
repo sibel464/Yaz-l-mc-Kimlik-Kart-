@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "DevCard Tracker",
+      "path": "expo",
+      "framework": "react-native"
+    }
+  ]
+}
